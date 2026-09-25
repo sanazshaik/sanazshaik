@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanazshaik
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning at Virginia Tech
-- 📫 How to reach me @ sanazshaik@vt.edu
+- 📫 How to reach me @ sanazshaik@gmail.com
 
 <!---
 sanazshaik/sanazshaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
